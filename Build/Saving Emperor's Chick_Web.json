@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Saving Emperor's Chick_Web.data.unityweb",
+"asmCodeUrl": "Saving Emperor's Chick_Web.asm.code.unityweb",
+"asmMemoryUrl": "Saving Emperor's Chick_Web.asm.memory.unityweb",
+"asmFrameworkUrl": "Saving Emperor's Chick_Web.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
